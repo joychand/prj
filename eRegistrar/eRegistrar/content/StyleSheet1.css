@@ -1,0 +1,13 @@
+﻿body { padding-top: 40px; }
+@media screen and (max-width: 768px) {
+    body { padding-top: 0px; }
+}
+.masthead {
+    color:#FFFFFF;
+ 
+background-image: url(../img/banner2.jpg);
+    background-repeat:no-repeat;
+    height:250px;
+    
+    background-size:cover;
+}
